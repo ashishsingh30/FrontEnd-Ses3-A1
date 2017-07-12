@@ -1,0 +1,10 @@
+#a{
+ margin:20px;
+ text-align:center;
+}
+td{
+	width:170px;
+}
+table.b td{
+	width:200px;
+}
